@@ -20,6 +20,6 @@ En C#-løsning for innsamling og administrasjon av badges fra ARIoT 2018. En scr
 - Opprinnelig opprettet på GitHub: **2018-03-14 14:02:04 UTC** (GitHubs metadata for kilderepoet).
 - Denne kopien: [dosjos2/Ariot2018Badges](https://github.com/dosjos2/Ariot2018Badges).
 
-Flyttet fra `dosjos` til `dosjos2` fordi eieren mistet tilgangen til den opprinnelige kontoen. Eksisterende Git-historikk, forfattere, grener og tags er bevart; README-oppdateringen er en ny commit. GitHub-opprettelsesdatoen for denne kopien er datoen for flyttingen, og erstatter ikke datoen ovenfor.
+Flyttet fra `dosjos` til `dosjos2` fordi eieren mistet tilgangen til den opprinnelige kontoen. Commit-historikk, forfattere, datoer og grener er videreført. En Azure IoT-nøkkel i den gamle historikken er erstattet med `REDACTED`, fordi GitHub blokkerte publisering av nøkkelen. Berørte commits og etterkommere har derfor nye commit-ID-er. Originalhistorikken finnes i kilderepoet. README-oppdateringene er nye commits. GitHub-opprettelsesdatoen for denne kopien er datoen for flyttingen, og erstatter ikke datoen ovenfor.
 
 Beskrivelsen er basert på kildekoden og prosjektfilene. Bygg og kjøring av de historiske prosjektene er ikke verifisert ved flyttingen. Eksisterende lisensfiler og krediteringer gjelder fortsatt.
